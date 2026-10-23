@@ -1,4 +1,3 @@
-October 26th - November 9th
 ## Trade-Offs in Data Systems Architecture
 
 ## Defining Nonfunctional Requirements
