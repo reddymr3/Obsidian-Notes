@@ -1,0 +1,12 @@
+
+- Ordering of messages in a multiple partition topic is guaranteed by consumer group. 
+- in sync replicas 
+- acks at producer
+- How are clients aware of all Kafka brokers when Kubernetes clusterIP service of Kafka brokers is provided to them to
+- Kafka ACLs for fine grained authZ
+- Sensitive message filtering 
+- pub spoke model
+- Gateway for Kafka brokers 
+- Kroxylicious : Kafka proxy 
+- Competing consumers
+- running Kafka on BM servers v/s on Kubernetes 
